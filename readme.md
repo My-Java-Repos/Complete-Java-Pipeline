@@ -59,7 +59,7 @@ Meanwhile the port forward is active (finish it pressing Ctrl+C in the terminal 
 
     http://localhost:8080/actuator/health
     http://localhost:8080/hello
-    http://localhost:8080/hello/John
+    http://localhost:8080/hello/Praveen
 
 Once the local tests have finished, terminate the service with the following command:
 
